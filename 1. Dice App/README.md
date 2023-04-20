@@ -1,16 +1,5 @@
-# dice
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-04-19 at 8 45 08 PM (2)](https://user-images.githubusercontent.com/129357543/233253407-3edc1205-a8fd-440d-8ae3-5e167804a669.jpeg)
+![WhatsApp Image 2023-04-19 at 8 45 08 PM (2)](https://user-images.githubusercontent.com/129357543/233253427-0f235fcd-716e-487a-a57f-9e6e0a2d216a.jpeg)
+![WhatsApp Image 2023-04-19 at 8 45 08 PM (1)](https://user-images.githubusercontent.com/129357543/233253430-74e18efc-dbe8-4d42-8552-b713ab5cc01f.jpeg)
+![WhatsApp Image 2023-04-19 at 8 45 08 PM](https://user-images.githubusercontent.com/129357543/233253433-4ee5a597-fb84-4d41-83c0-4fce4bf04a3f.jpeg)
+![WhatsApp Image 2023-04-19 at 8 45 07 PM (1)](https://user-images.githubusercontent.com/129357543/233253445-20e230f4-e637-4b16-a669-6b6b4e5e5f46.jpeg)
